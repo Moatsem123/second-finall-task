@@ -364,7 +364,7 @@ padding-left: 66px;
 
 
 
-/* section 4 */
+/* ************ SECTION 4 **************  */
 .section-6 {
     max-width: 99vw;
     height: 96vh;
@@ -375,10 +375,7 @@ padding-left: 66px;
     margin: auto;
     text-transform: capitalize;
     font-weight: 300;
-    position: relative;
-    bottom: 13px;
-    border-top: 2px solid rgb(230, 228, 228);
-    padding-top: 60px;
+    margin-top: 14px;
 }
 
 .sec-6-1,
@@ -459,9 +456,8 @@ a:hover {
         border-radius: 2px;
         padding: 15px 18px 15px 16px;
         position: absolute;
-        top: 51%;
-        right: 71px;
-        border-radius: 6px;
+        top: 39%;
+        right: -36px;
         }
 .btn:hover {
     -webkit-box-shadow: 0 5px 20px -7px rgba(0, 0, 0, 0.9);
@@ -481,10 +477,10 @@ a:hover {
 
 
 .form__field{
-    top: 46.3%;
+    top: 35.3%;
     position: absolute;
     right: 73px;
-    width: 159px; 
+    width: 159px;
     height: 10px;
         background: #fff;
         color: #a3a3a3;
@@ -492,7 +488,7 @@ a:hover {
         box-shadow: 0 6px 10px 0 rgba(0, 0, 0 , .1);
         border: 0;
         outline: 0;
-        padding: 27px 95px 25px 12px;
+        padding: 22px 18px;
         margin: -1vw;
         margin-top: 24px;
         border: 0.1px solid black;
@@ -512,9 +508,8 @@ border-color: #7f8ff4;
         padding: 3vw 0;
         background-color: white;
   position: relative;
-  bottom: 13px;
 
-  top:-170px;
+  top:-250px;
     }
     /* ************ END OF SECTION 4 **************  */
 
